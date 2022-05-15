@@ -1,1 +1,0 @@
-"/apps/EDAs/synopsys/syn/K-2015.06/bin/dc_shell"

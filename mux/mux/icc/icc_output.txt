@@ -1,9 +1,0 @@
-Initializing gui preferences from file  /home/lishang/.synopsys_icc_prefs.tcl
-icc_shell> exit
-
-Memory usage for main task 85 Mbytes.
-Memory usage for this session 85 Mbytes.
-CPU usage for this session 2 seconds ( 0.00 hours ).
-
-Thank you...
-
